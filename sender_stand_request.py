@@ -39,4 +39,6 @@ def post_products_kits(products_ids):
 response = post_products_kits(data.product_ids);
 #print(response.status_code)
 #print(response.json()) # Muestra del resultado en la consola
+###
+
 
